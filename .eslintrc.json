@@ -15,7 +15,7 @@
         "plugin:@tanstack/eslint-plugin-query/recommended",
         "plugin:tailwindcss/recommended"
     ],
-    "ignorePatterns": ["dist", "vite.config.ts", "postcss.config.js", "tailwind.config.js", "commitlint.config.js"],
+    "ignorePatterns": ["dist", "vite.config.ts", "postcss.config.js", "tailwind.config.js", "commitlint.config.cjs"],
     "parser": "@typescript-eslint/parser",
     "plugins": ["react-refresh"],
     "rules": {
